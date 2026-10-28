@@ -1,0 +1,35 @@
+{
+    "name": "تكّة",
+    "short_name": "تكّة",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FCEADE",
+    "theme_color": "#C03608",
+    "description": "تكّة: توصيل من مطاعم إدلب وسوبرماركتها وصيدلياتها.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

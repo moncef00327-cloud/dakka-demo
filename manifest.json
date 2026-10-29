@@ -1,11 +1,11 @@
 {
-    "name": "تكّة",
-    "short_name": "تكّة",
+    "name": "دقّة",
+    "short_name": "دقّة",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FCEADE",
     "theme_color": "#C03608",
-    "description": "تكّة: توصيل من مطاعم إدلب وسوبرماركتها وصيدلياتها.",
+    "description": "دقّة: توصيل من مطاعم إدلب وسوبرماركتها وصيدلياتها.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
